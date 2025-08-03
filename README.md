@@ -7,7 +7,7 @@
 
 > **Modern Windows application to fix Battlefield 3 "Could not activate license" errors in EA App and Origin**
 
-![BF3 License Fixer](assets/screenshot.png)
+![BF3 License Fixer](assets/image.png)
 
 ## 🚀 **Quick Start**
 
