@@ -41,7 +41,7 @@ Contains Windows executable metadata:
 - **Product Name:** BF3 License Fixer
 - **Description:** Battlefield 3 License Activation Tool
 - **Copyright:** MIT License
-- **GitHub URL:** https://github.com/voidfnc/bf3-license-fixer
+- **GitHub URL:** https://github.com/voidfnc/bf3_license_fixer
 - **Version:** 1.2.0
 
 ### `BF3_License_Fixer.spec`
