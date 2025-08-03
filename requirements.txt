@@ -1,0 +1,22 @@
+# BF3 License Fixer Requirements
+# Core dependencies for the application
+
+# Process management
+psutil>=5.9.0
+
+# GUI framework (usually included with Python)
+# tkinter - included with Python standard library
+
+# Build and packaging
+pyinstaller>=5.0.0
+
+# Modern GUI enhancements
+pillow>=9.0.0  # For enhanced image handling and icons
+
+# Optional: Development dependencies
+# pytest>=7.0.0  # For testing
+# black>=22.0.0  # For code formatting
+# flake8>=4.0.0  # For linting
+
+# Modern theme dependencies (all included in Python standard library)
+# No additional dependencies required for the modern theme
