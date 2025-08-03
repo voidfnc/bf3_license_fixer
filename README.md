@@ -19,8 +19,8 @@
 ### 🛠️ **Build from Source**
 ```bash
 # Clone the repository
-git clone https://github.com/voidfnc/bf3-license-fixer.git
-cd bf3-license-fixer
+git clone https://github.com/voidfnc/bf3_license_fixer.git
+cd bf3_license_fixer
 
 # Install dependencies
 .\setup.bat
