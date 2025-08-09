@@ -38,7 +38,7 @@ cd bf3_license_fixer
 ## ❓ **What This Fixes**
 
 ### 🎯 **The Problem**
-Battlefield 3 players often encounter this frustrating error:
+Battlefield 3 players often encounter this frustrating error and cannot play:
 - **"Could not activate license"** in EA App
 - **"License not found"** in Origin
 - Game appears in library but **won't launch**
